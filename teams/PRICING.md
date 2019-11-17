@@ -1,2 +1,2 @@
 # Pricing Team
-*Replace this with definition*
+Pricing takımı yapılacak etkinliklerin sunulacak ürünlerin değerlerini belirleyip bunun ücretlendirmesi üzerine çalışır.
